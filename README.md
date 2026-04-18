@@ -29,7 +29,7 @@ A Unity-based game developed using C#, featuring player interaction systems, UI 
 ![Main Menu](screenshots/Main_menu.png)
 
 ### Gameplay UI
-![Gameplay](screenshots/Gameplay_UI.png)
+![Gameplay](screenshots/Gameplay_ui.png)
 
 ### Pause Menu
 ![Pause Menu](screenshots/Pause_menu.png)
