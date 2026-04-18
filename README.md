@@ -24,6 +24,7 @@ A Unity-based game developed using C#, featuring player interaction systems, UI 
 - Managing game states (menus, pause, gameplay)
 
 ## Screenshots
+- Screenshots highlight systems I implemented, including menus, UI, and leaderboard functionality
 
 ### Main Menu
 ![Main Menu](screenshots/Main_menu.png)
