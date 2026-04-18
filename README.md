@@ -1,4 +1,4 @@
-# eternal-combat-unity
+# Eternal Combat
 
 ## Description
 A Unity-based game developed using C#, featuring player interaction systems, UI design, and gameplay mechanics.
