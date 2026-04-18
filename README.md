@@ -22,3 +22,8 @@ A Unity-based game developed using C#, featuring player interaction systems, UI 
 - Unity UI system and canvas workflow
 - Event-driven programming in game development
 - Managing game states (menus, pause, gameplay)
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/Main_menu.png)
